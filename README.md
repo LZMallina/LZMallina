@@ -1,8 +1,6 @@
 ### Hi there 👋
 <h1>What's up baby</h1>
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<p>does the paragraph tag works?</p>
 <!--
 **LZMallina/LZMallina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
