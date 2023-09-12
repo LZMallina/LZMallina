@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1>What's up baby</h1>
 <p>does the paragraph tag works?</p>
+<a href="cnn.com">CNN</a>
 <!--
 **LZMallina/LZMallina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
